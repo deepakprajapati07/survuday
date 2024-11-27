@@ -4,6 +4,7 @@
 ### Model Huggingface Repo
 - survuday_v1: https://huggingface.co/dkp2701/survuday_v1
 - survuday_v2: https://huggingface.co/dkp2701/survuday_v2
+- survuday_v3: https://huggingface.co/dkp2701/survuday_v3
 
 ### Dataset
 - Mental Helath-related dialogue data were taken from kaggle and apart from that non-mental health-related conversations for model effectiveness were added manually.
